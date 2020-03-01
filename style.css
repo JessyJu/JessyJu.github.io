@@ -345,6 +345,10 @@ footer .footer_block .copyright {
      	display: none;
      	font-size: 30px;
      }
+	
+     section #board {
+	display: none;
+     }
 }
 
 /* ========== > media queries < ========== */
