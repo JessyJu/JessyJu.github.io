@@ -1,6 +1,4 @@
 html {
-/*	overflow-x: hidden; */
-	width: 1317px;
 	max-width: 100%;
 }
 
@@ -10,6 +8,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	background-color: #fff;
 	width: 100%;
+	overflow-x: hidden;
 }
 
 a {
